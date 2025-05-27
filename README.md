@@ -28,10 +28,14 @@ We can see commit history from the history, see what was added +means added, - m
 cd -> change directory <br>
 1. cd (name of the folder)
 2. cd ../foldername (to change the directory to the parent folder or other folders)
+
+
 ls -la or la -> list everything in the directory including hidden folders
+
 
 clone -> bring a repository to the local machine from the GitHub <br>
 1. git clone (repositor url/ssh)
+
 
 add -> track your file and changes in git <br>
 1. git add . // keep track all of the files <br>
@@ -41,18 +45,23 @@ add -> track your file and changes in git <br>
 generally we use the dot (.) to add all files<br>
 After using the add all the changes have been tracked and are ready to be comitted to the repository
 
+
 commit -> save file in git <br>
 1. git commit -m "message" // used to add messages. Messages are needed to commit.messsage generally includes what and a why is the commit necessary<br>
 2. git commit -m "message" -m "description" // used to add a message or a description <br>
 This makes the code save locally
+
 
 push -> upload files to the repository from the device being used <br> 
 1. git push origin main // used to upload files to the repository<br>
 origin -> name of the repository<br>
 main -> name of the branch <br>
 
+
 pull -> bringing changes from the repository to the device being used <br>
 
+
 git status -> shows all of the files that were updated, created, or deleted but havent been saved in a commit yet
+
 
 git init -> creates a new repository in the current directory
