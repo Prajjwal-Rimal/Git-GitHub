@@ -87,14 +87,7 @@ upstream -> used to set the branch to the remote repository<br>
 
 1. git branch -> shows all the branches in the repository
 2. git checkout -b (name of the branch) // to create a new branch
+3. git checkout (branch name) // switches between branches
 
-
-
-
-
-
-
-
-
-
-Branch testing
+## Diff-> used to see the changes made to the code
+1. git diff (branch name) // shows the changes made to the code
