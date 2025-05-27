@@ -1,16 +1,16 @@
 # Git-GitHub
-GIT - version control system
+GIT - version control system <br>
 Version Control - way to track code changes
 
-Directory -> Folder
-Terminal or command line -> interface to type text commands 
-CLI -> command line interface
-code editor -> space to write code
+Directory -> Folder <br>
+Terminal or command line -> interface to type text commands<br> 
+CLI -> command line interface<br>
+code editor -> space to write code<br>
 repository(repo) -> folder where the project is kept / project folder
 
-git -> tracks changes in code overtime
-GitHub -> online space to host all of the git repositories
-Markdown -> what the project is about what it does
+git -> tracks changes in code overtime <br>
+GitHub -> online space to host all of the git repositories <br>
+Markdown -> what the project is about what it does <br>
 Always write proper commit messages
 
 # Commands
