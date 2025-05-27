@@ -49,6 +49,7 @@ After using the add all the changes have been tracked and are ready to be comitt
 ## commit -> save file in git <br>
 1. git commit -m "message" // used to add messages. Messages are needed to commit.messsage generally includes what and a why is the commit necessary<br>
 2. git commit -m "message" -m "description" // used to add a message or a description <br>
+3. git commit -am "message" // used to add a message and add all files
 This makes the code save locally
 
 
@@ -96,6 +97,8 @@ upstream -> used to set the branch to the remote repository<br>
 2. git checkout -b (name of the branch) // to create a new branch<br>
 3. git checkout (branch name) // switches between branches
 4. git branch -d (branch name) // deletes a branch<br>
+
+-> merge conflicts: multiple people can change the same file <Br>
 
 ## Diff-> used to see the changes made to the code
 1. git diff (branch name) // shows the changes made to the code<br>
