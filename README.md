@@ -75,3 +75,13 @@ upstream -> used to set the branch to the remote repository<br>
 2. git remote -v -> shows the remote repository that is connected to the local repository <br> 
 
 ## Git branch -> used to create a new branch in the repository
+-> master / main branch is the main or the default branch in the repository <br>
+-> we can also make another branch <br>
+-> the code on master and feature will be same, changes to the created branch will be saved on the feature branch only<br>
+-> branches dont know what comit have been made to them <br>
+-> branches only hold the changes made to them <br> 
+-> we can switch between branches <br>
+-> useful for feature testing, testingg ccode is not saved in the main branch <br>
+-> after testing we can merge the feature branch to the main branch<br>
+-> hot fix branch is used to fix bugs in the main branch<br>
+
