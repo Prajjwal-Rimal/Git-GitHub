@@ -85,9 +85,10 @@ upstream -> used to set the branch to the remote repository<br>
 -> after testing we can merge the feature branch to the main branch<br>
 -> hot fix branch is used to fix bugs in the main branch<br>
 
-1. git branch -> shows all the branches in the repository
-2. git checkout -b (name of the branch) // to create a new branch
+1. git branch -> shows all the branches in the repository<br>
+2. git checkout -b (name of the branch) // to create a new branch<br>
 3. git checkout (branch name) // switches between branches
 
 ## Diff-> used to see the changes made to the code
-1. git diff (branch name) // shows the changes made to the code
+1. git diff (branch name) // shows the changes made to the code<br>
+-> its recommended to push the branch independantly before commiting changes to the main branch<br>
