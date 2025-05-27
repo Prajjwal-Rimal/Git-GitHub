@@ -54,3 +54,5 @@ main -> name of the branch <br>
 pull -> bringing changes from the repository to the device being used <br>
 
 git status -> shows all of the files that were updated, created, or deleted but havent been saved in a commit yet
+
+git init -> creates a new repository in the current directory
