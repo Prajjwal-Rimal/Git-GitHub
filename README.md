@@ -61,7 +61,9 @@ upstream -> used to set the branch to the remote repository<br>
 
 
 ## pull -> bringing changes from the repository to the device being used <br>
--> pull request : request to pull code from one branch to another
+-> pull request : request to pull code from one branch to another<br>
+1. git pull origin feature-learning // used to bring changes from the repository to the device being used<br>
+2. 
 
 
 ## status -> shows all of the files that were updated, created, or deleted but havent been saved in a commit yet
