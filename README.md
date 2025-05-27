@@ -61,6 +61,7 @@ upstream -> used to set the branch to the remote repository<br>
 
 
 ## pull -> bringing changes from the repository to the device being used <br>
+Testing the pull command 
 
 
 ## status -> shows all of the files that were updated, created, or deleted but havent been saved in a commit yet
