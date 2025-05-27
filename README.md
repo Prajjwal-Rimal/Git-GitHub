@@ -15,9 +15,9 @@ Always write proper commit messages
 
 # Commands
 --------
-cd -> change directory
-clone -> bring a repository to the local machine from the GitHub
-add -> track your file and changes in git
-commit -> save file in git 
-push -> upload files to the repository from the device being used 
-pull -> bringing changes from the repository to the device being used 
+cd -> change directory <br>
+clone -> bring a repository to the local machine from the GitHub <br>
+add -> track your file and changes in git <br>
+commit -> save file in git <br>
+push -> upload files to the repository from the device being used <br> 
+pull -> bringing changes from the repository to the device being used <br>
