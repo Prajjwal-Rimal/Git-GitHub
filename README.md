@@ -27,7 +27,7 @@ We can see commit history from the history, see what was added +means added, - m
 --------
 cd -> change directory <br>
 1. cd (name of the folder)
-
+2. cd ../foldername (to change the directory to the parent folder or other folders)
 ls -la or la -> list everything in the directory including hidden folders
 
 clone -> bring a repository to the local machine from the GitHub <br>
