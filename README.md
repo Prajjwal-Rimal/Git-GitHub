@@ -42,7 +42,9 @@ generally we use the dot (.) to add all files<br>
 After using the add all the changes have been tracked and are ready to be comitted to the repository
 
 commit -> save file in git <br>
-git commit -m "message" // used to add messages. Messages are needed to commit.messsage generally includes what and a why is the commit necessary
+git commit -m "message" // used to add messages. Messages are needed to commit.messsage generally includes what and a why is the commit necessary<br>
+git commit -m "message" -m "description" // used to add a message or a description <br>
+This makes the code save locally
 
 push -> upload files to the repository from the device being used <br> 
 
