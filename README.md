@@ -11,7 +11,8 @@ repository(repo) -> folder where the project is kept / project folder
 git -> tracks changes in code overtime <br>
 GitHub -> online space to host all of the git repositories <br>
 Markdown -> what the project is about what it does <br>
-Always write proper commit messages
+Always write proper commit messages <br>
+We can see commit history from the history, see what was added +means added, - means that was deleted, nothing means it stays the same
 
 # Commands
 --------
