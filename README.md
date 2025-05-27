@@ -109,3 +109,8 @@ upstream -> used to set the branch to the remote repository<br>
 1. git reset // resets the branch to the last commit made<br>
 2. git reset (file name) // resets the file to the last commit made<br>
 3. git reseat HEAD~1 // resets the branch to the last commit made<br>
+
+
+# Fork
+forking in git/github is used to create a copy of the repository on your device<br>
+done to others repository<br>
