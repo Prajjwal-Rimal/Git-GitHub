@@ -70,4 +70,4 @@ git init -> creates a new repository in the current directory
 
 
 git remote add origin (url/ssh) -> adds a remote repository to the local repository<br>
-git remove -v -> shows the remote repository that is connected to the local repository <br> 
+git remote -v -> shows the remote repository that is connected to the local repository <br> 
