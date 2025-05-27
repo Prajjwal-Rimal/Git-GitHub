@@ -68,7 +68,6 @@ upstream -> used to set the branch to the remote repository<br>
 -> if other changes needed repeat the cycle<br>
 
 1. git pull origin feature-learning // used to bring changes from the repository to the device being used<br>
-2. 
 
 
 ## status -> shows all of the files that were updated, created, or deleted but havent been saved in a commit yet
@@ -96,6 +95,7 @@ upstream -> used to set the branch to the remote repository<br>
 1. git branch -> shows all the branches in the repository<br>
 2. git checkout -b (name of the branch) // to create a new branch<br>
 3. git checkout (branch name) // switches between branches
+4. git branch -d (branch name) // deletes a branch<br>
 
 ## Diff-> used to see the changes made to the code
 1. git diff (branch name) // shows the changes made to the code<br>
