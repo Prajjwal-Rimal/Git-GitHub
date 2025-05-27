@@ -97,7 +97,7 @@ upstream -> used to set the branch to the remote repository<br>
 2. git checkout -b (name of the branch) // to create a new branch<br>
 3. git checkout (branch name) // switches between branches
 4. git branch -d (branch name) // deletes a branch<br>
-
+5. git merge featuere // merges the feature branch to the main branch<br>
 -> merge conflicts: multiple people can change the same file <Br>
 
 ## Diff-> used to see the changes made to the code
