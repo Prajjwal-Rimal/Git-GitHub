@@ -54,8 +54,10 @@ This makes the code save locally
 
 push -> upload files to the repository from the device being used <br> 
 1. git push origin main // used to upload files to the repository<br>
+2. git push -u origin main // used to upload files to the repository and set the upstream. <br>
 origin -> name of the repository<br>
 main -> name of the branch <br>
+upstream -> used to set the branch to the remote repository<br>
 
 
 pull -> bringing changes from the repository to the device being used <br>
@@ -65,3 +67,7 @@ git status -> shows all of the files that were updated, created, or deleted but 
 
 
 git init -> creates a new repository in the current directory
+
+
+git remote add origin (url/ssh) -> adds a remote repository to the local repository<br>
+git remove -v -> shows the remote repository that is connected to the local repository <br> 
