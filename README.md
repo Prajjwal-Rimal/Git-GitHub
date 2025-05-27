@@ -61,6 +61,14 @@ upstream -> used to set the branch to the remote repository<br>
 
 
 ## pull -> bringing changes from the repository to the device being used <br>
+-> pull request : request to pull code from one branch to another<br>
+-> once made a pr anyone can view  the code comment on it ask us to make changes or updates<br>
+-> we can also update the code as long as it on the same branch we are making PR with<br>
+-> once pr is merged we genreally delete the source or feature branch <br>
+-> if other changes needed repeat the cycle<br>
+
+1. git pull origin feature-learning // used to bring changes from the repository to the device being used<br>
+2. 
 
 
 ## status -> shows all of the files that were updated, created, or deleted but havent been saved in a commit yet
@@ -85,3 +93,10 @@ upstream -> used to set the branch to the remote repository<br>
 -> after testing we can merge the feature branch to the main branch<br>
 -> hot fix branch is used to fix bugs in the main branch<br>
 
+1. git branch -> shows all the branches in the repository<br>
+2. git checkout -b (name of the branch) // to create a new branch<br>
+3. git checkout (branch name) // switches between branches
+
+## Diff-> used to see the changes made to the code
+1. git diff (branch name) // shows the changes made to the code<br>
+-> its recommended to push the branch independantly before commiting changes to the main branch<br>
