@@ -85,3 +85,16 @@ upstream -> used to set the branch to the remote repository<br>
 -> after testing we can merge the feature branch to the main branch<br>
 -> hot fix branch is used to fix bugs in the main branch<br>
 
+1. git branch -> shows all the branches in the repository
+2. git checkout -b (name of the branch) // to create a new branch
+
+
+
+
+
+
+
+
+
+
+Branch testing
