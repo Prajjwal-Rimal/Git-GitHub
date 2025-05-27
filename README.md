@@ -73,3 +73,5 @@ upstream -> used to set the branch to the remote repository<br>
 ## remote -> used to connect to the repository
 1. git remote add origin (url/ssh) -> adds a remote repository to the local repository<br>
 2. git remote -v -> shows the remote repository that is connected to the local repository <br> 
+
+## Git branch -> used to create a new branch in the repository
