@@ -108,7 +108,7 @@ upstream -> used to set the branch to the remote repository<br>
 ## git reset 
 1. git reset // resets the branch to the last commit made<br>
 2. git reset (file name) // resets the file to the last commit made<br>
-3. git reseat HEAD~1 // resets the branch to the last commit made<br>
+3. git reset HEAD~1 // resets the branch to the last commit made<br>
 
 
 ## Fork
